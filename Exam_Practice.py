@@ -1,9 +1,4 @@
-"""
-name: Danielle Cremins
 
-student number: 118301286
-
-"""
 
 # function named average that accepts two integers
 def average(var1, var2):
