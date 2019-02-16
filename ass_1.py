@@ -1,8 +1,6 @@
 """
 name: Fiona Cremins 
-student number: 118301286
 desc: degrees to latitude
-
 """
 
 
